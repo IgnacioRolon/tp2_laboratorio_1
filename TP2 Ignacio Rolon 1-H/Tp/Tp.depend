@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1557439639 source:/home/alumno/Rolon/Trabajo/Tp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<ctype.h>
+	"utn_strings.h"
+
+1557439222 /home/alumno/Rolon/Trabajo/Tp/ArrayEmployees.h
+
+1557437354 /home/alumno/Rolon/Trabajo/Tp/utn_strings.h
+
+1557439342 source:/home/alumno/Rolon/Trabajo/Tp/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<string.h>
+	"utn_strings.h"
+
+1557439488 source:/home/alumno/Rolon/Trabajo/Tp/utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
+1557439715 source:/home/alumno/Rolon/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<string.h>
+	"utn_strings.h"
+
+1557439222 /home/alumno/Rolon/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.h
+
+1557437354 /home/alumno/Rolon/TP2 Ignacio Rolon 1-H/Tp/utn_strings.h
+
+1557439639 source:/home/alumno/Rolon/TP2 Ignacio Rolon 1-H/Tp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<ctype.h>
+	"utn_strings.h"
+
+1557439488 source:/home/alumno/Rolon/TP2 Ignacio Rolon 1-H/Tp/utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
+1557442228 source:/home/alumno/Rolon/RepoPrivadoTPS/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<string.h>
+	"utn_strings.h"
+
+1557439222 /home/alumno/Rolon/RepoPrivadoTPS/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.h
+
+1557437354 /home/alumno/Rolon/RepoPrivadoTPS/TP2 Ignacio Rolon 1-H/Tp/utn_strings.h
+
+1557443136 source:/home/alumno/Rolon/RepoPrivadoTPS/TP2 Ignacio Rolon 1-H/Tp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<ctype.h>
+	"utn_strings.h"
+
+1557442904 source:/home/alumno/Rolon/RepoPrivadoTPS/TP2 Ignacio Rolon 1-H/Tp/utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
+1557442228 source:/home/alumno/Rolon/tp2_laboratorio_1/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<string.h>
+	"utn_strings.h"
+
+1557439222 /home/alumno/Rolon/tp2_laboratorio_1/TP2 Ignacio Rolon 1-H/Tp/ArrayEmployees.h
+
+1557437354 /home/alumno/Rolon/tp2_laboratorio_1/TP2 Ignacio Rolon 1-H/Tp/utn_strings.h
+
+1557443136 source:/home/alumno/Rolon/tp2_laboratorio_1/TP2 Ignacio Rolon 1-H/Tp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"ArrayEmployees.h"
+	<ctype.h>
+	"utn_strings.h"
+
+1557442904 source:/home/alumno/Rolon/tp2_laboratorio_1/TP2 Ignacio Rolon 1-H/Tp/utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
